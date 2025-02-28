@@ -6,5 +6,5 @@ Sentinel is an AI powered application to detect fraud in financial systems
 2. Sentinel Paper.docx - Scientific Paper
 
 ## Roadmap
-Access the roadmap <a href="https://www.notion.so/invite/e827f087bcdea232987647bd24c45ad9380ae1a5">here</a>
+Access the roadmap [here](https://sparkly-juniper-c5f.notion.site/Sentinel-Project-Management-19fb03ed79f980f5b919f6aa5f0fa911?pvs=74)
 
